@@ -1,0 +1,13 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+cv_paper/A_alexnet/data/test1
+cv_paper/A_alexnet/data/train
+cv_paper/A_alexnet/data/train.zip
+cv_paper/A_alexnet/data/test1.zip
+cv_paper/A_alexnet/data/alexnet-owt-4df8aa71.pth
